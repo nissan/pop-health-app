@@ -87,3 +87,5 @@ docker/data/*
 !docker/data/.gitkeep
 final_output2
 import_pros.js
+
+build/
